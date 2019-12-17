@@ -1,0 +1,11 @@
+framework module testXML {
+  umbrella header "testXML.h"
+
+  export *
+  module * { export * }
+}
+
+module testXML.Swift {
+    header "testXML-Swift.h"
+    requires objc
+}
