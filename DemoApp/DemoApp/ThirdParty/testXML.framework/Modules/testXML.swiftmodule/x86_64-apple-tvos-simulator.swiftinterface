@@ -3,7 +3,8 @@
 // swift-module-flags: -target x86_64-apple-tvos13.2-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name testXML
 import Foundation
 import Swift
-import libxml2
+import mylibxml2
+import testModule
 @_exported import testXML
 @objc public class Launcher : ObjectiveC.NSObject {
   public static func start()

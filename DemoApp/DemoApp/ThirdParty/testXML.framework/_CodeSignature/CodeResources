@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Frameworks/libxml2.2.dylib</key>
+		<data>
+		WC8FV+MCcHefIbdGRQGck1Cn2co=
+		</data>
 		<key>Headers/testXML-Swift.h</key>
 		<data>
 		CV6qNTpfO88Wcf2GxZNOkwB6Wqk=
@@ -26,11 +30,11 @@
 		</data>
 		<key>Modules/testXML.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
 		<data>
-		zo+IJowE9CYy1cDa0gOJ+caqpoo=
+		Eg5PK3uOSHGHBKlkUkc7SHUyLoI=
 		</data>
 		<key>Modules/testXML.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		0hgN9nDyv7AFKbqYIS4/Dx7Fjz0=
+		YW2MDmYJveAYuWWPobi2EY0PdEE=
 		</data>
 		<key>Modules/testXML.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -38,15 +42,22 @@
 		</data>
 		<key>Modules/testXML.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		zo+IJowE9CYy1cDa0gOJ+caqpoo=
+		Eg5PK3uOSHGHBKlkUkc7SHUyLoI=
 		</data>
 		<key>Modules/testXML.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		0hgN9nDyv7AFKbqYIS4/Dx7Fjz0=
+		YW2MDmYJveAYuWWPobi2EY0PdEE=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/libxml2.2.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rVVKh66jlv2sEQQgi1y3Bn6/wBD0MhnO1/fy5lsh2Y0=
+			</data>
+		</dict>
 		<key>Headers/testXML-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -79,14 +90,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zl5Mbfw1aG04ge73xoqGy7IgyfNLWHh6CrojSJ0a0Kk=
+			ukLK3SQPaciRVN+LHmyBEHUXuzq53zr0CUNhz+BFbrc=
 			</data>
 		</dict>
 		<key>Modules/testXML.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g7qcne6UUb/cwzZXD2D4gRCljnC9gZ07ZzaAQkyLXqI=
+			H97/CHfoGYv8nJAFY/OWUUi5EsDPbeeF0SlinDZIRNM=
 			</data>
 		</dict>
 		<key>Modules/testXML.swiftmodule/x86_64.swiftdoc</key>
@@ -100,14 +111,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zl5Mbfw1aG04ge73xoqGy7IgyfNLWHh6CrojSJ0a0Kk=
+			ukLK3SQPaciRVN+LHmyBEHUXuzq53zr0CUNhz+BFbrc=
 			</data>
 		</dict>
 		<key>Modules/testXML.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g7qcne6UUb/cwzZXD2D4gRCljnC9gZ07ZzaAQkyLXqI=
+			H97/CHfoGYv8nJAFY/OWUUi5EsDPbeeF0SlinDZIRNM=
 			</data>
 		</dict>
 	</dict>

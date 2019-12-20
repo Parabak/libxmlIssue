@@ -7,7 +7,8 @@
 //
 
 import Foundation
-import libxml2
+import testModule
+import mylibxml2
 
 
 @objc public class Launcher: NSObject {
